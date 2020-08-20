@@ -1,4 +1,4 @@
-# Siamese Network Triplet Loss-Keras
+# Siamese Network Triplet Loss - Keras
 ## Welcome!
 Welcome to **Siamese Network with Triplet Loss in Keras**. 
 A **Siamese neural network** (sometimes called a **twin neural network**) is an artificial neural network that uses the same weights while working in tandem on two different input vectors to compute comparable output vectors. Often one of the output vectors is precomputed, thus forming a baseline against which the other output vector is compared. This is similar to comparing fingerprints but can be described more technically as a distance function for locality-sensitive hashing.
